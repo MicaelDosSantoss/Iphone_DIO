@@ -35,10 +35,10 @@ Para a criação do UML foi usado o [MERMAID](https://docs.oracle.com/en/java/),
 
 ## 🤔 O QUE FOI USANDO ?
 
-<p align = "center">
-<img src = "./Img/favicon.svg" width="150" style="margin-right: 30px; margin-left: 30px;">
-<img src = "./Img/IntelliJ.png" width="150" style="margin-right: 30px; margin-left: 30px;">
-<img src = "./Img/java.webp" width="160" style="margin-right: 30px; margin-left: 30px;">
-
-
+<p align="center">
+  <img src="./Img/favicon.svg" width="150">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Img/IntelliJ.png" width="150">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Img/java.webp" width="160">
 </p>
